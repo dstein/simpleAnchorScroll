@@ -18,3 +18,10 @@ Compatibility:
 - Check 'caniuse' for more information. Uses the CSS ':not()' psuedo-class and the JS 'Element.scrollIntoView()' method
 - https://caniuse.com/?search=%3Anot()
 - https://caniuse.com/?search=scrollintoview
+
+Change log:
+- v1.0.0
+    - Established
+- v1.0.1
+    - Minor update checking for if the anchor is on the current page. If not navigate to the url.
+    - Parsing the hash property so it can be read properly
